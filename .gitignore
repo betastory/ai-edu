@@ -338,3 +338,8 @@ site/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+# 虚拟环境
+tf_env/
+
+.DS_Store
